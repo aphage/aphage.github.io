@@ -1,0 +1,1 @@
+import{t as e}from"./themes.OhF8n8-2.js";document.querySelectorAll(`[data-lang-option]`).forEach(t=>t.addEventListener(`click`,()=>{try{localStorage.setItem(e,t.dataset.langOption)}catch{}}));

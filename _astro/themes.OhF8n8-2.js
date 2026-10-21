@@ -1,0 +1,1 @@
+var e=`theme-palette`,t=`theme-mode`,n=`preferred-lang`;export{t as n,e as r,n as t};
